@@ -5,3 +5,13 @@ h1 {
 p {
     font-style: normal;
 }
+
+img {
+    height: 700px;
+    width: 500px;
+}
+
+video {
+    height: 500px;
+    width: 500px;
+}
